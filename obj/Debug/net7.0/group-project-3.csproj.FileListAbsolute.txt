@@ -1,0 +1,14 @@
+/Users/carlos/Documents/code/school/comp-100/group-project-3/bin/Debug/net7.0/group-project-3
+/Users/carlos/Documents/code/school/comp-100/group-project-3/bin/Debug/net7.0/group-project-3.deps.json
+/Users/carlos/Documents/code/school/comp-100/group-project-3/bin/Debug/net7.0/group-project-3.runtimeconfig.json
+/Users/carlos/Documents/code/school/comp-100/group-project-3/bin/Debug/net7.0/group-project-3.dll
+/Users/carlos/Documents/code/school/comp-100/group-project-3/bin/Debug/net7.0/group-project-3.pdb
+/Users/carlos/Documents/code/school/comp-100/group-project-3/obj/Debug/net7.0/group-project-3.GeneratedMSBuildEditorConfig.editorconfig
+/Users/carlos/Documents/code/school/comp-100/group-project-3/obj/Debug/net7.0/group-project-3.AssemblyInfoInputs.cache
+/Users/carlos/Documents/code/school/comp-100/group-project-3/obj/Debug/net7.0/group-project-3.AssemblyInfo.cs
+/Users/carlos/Documents/code/school/comp-100/group-project-3/obj/Debug/net7.0/group-project-3.csproj.CoreCompileInputs.cache
+/Users/carlos/Documents/code/school/comp-100/group-project-3/obj/Debug/net7.0/group-project-3.dll
+/Users/carlos/Documents/code/school/comp-100/group-project-3/obj/Debug/net7.0/refint/group-project-3.dll
+/Users/carlos/Documents/code/school/comp-100/group-project-3/obj/Debug/net7.0/group-project-3.pdb
+/Users/carlos/Documents/code/school/comp-100/group-project-3/obj/Debug/net7.0/group-project-3.genruntimeconfig.cache
+/Users/carlos/Documents/code/school/comp-100/group-project-3/obj/Debug/net7.0/ref/group-project-3.dll
